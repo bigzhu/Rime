@@ -1,0 +1,6 @@
+# Rime user dictionary
+#@/db_name	cangjie5
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	0
+#@/user_id	bc708587-3a34-4c12-845a-df1ea6357e4f

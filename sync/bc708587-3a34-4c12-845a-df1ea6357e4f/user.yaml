@@ -1,0 +1,10 @@
+var:
+  last_build_time: 1669625828
+  option:
+    ascii_punct: true
+    simplification: true
+  previously_selected_schema: cangjie5
+  schema_access_time:
+    cangjie5: 1669625596
+    luna_pinyin: 1669625526
+    luna_pinyin_simp: 1669625588
