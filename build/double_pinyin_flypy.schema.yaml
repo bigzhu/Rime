@@ -3,7 +3,7 @@ __build_info:
   timestamps:
     default: 1613228859
     default.custom: 1669625920
-    double_pinyin_flypy.custom: 0
+    double_pinyin_flypy.custom: 1669631289
     double_pinyin_flypy.schema: 1669625236
     key_bindings: 1613228859
     key_bindings.custom: 0
@@ -211,7 +211,7 @@ switches:
   - name: ascii_punct
     states: ["。，", "．，"]
 translator:
-  dictionary: luna_pinyin
+  dictionary: luna_pinyin.extended
   preedit_format:
     - "xform/([bpmfdtnljqx])n/$1iao/"
     - "xform/(\\w)g/$1eng/"
