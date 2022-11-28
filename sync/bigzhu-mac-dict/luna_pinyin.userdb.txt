@@ -1,0 +1,19 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	15
+#@/user_id	bigzhu-mac-dict
+ci ku 	詞庫	c=2 d=1.95084 t=15
+dong xi 	東西	c=1 d=0.995012 t=15
+hen hao 	很好	c=1 d=0.980199 t=15
+hui 	會	c=1 d=0.980199 t=15
+ji lu 	記錄	c=1 d=0.985112 t=15
+le 	了	c=1 d=1 t=15
+ma 	嗎	c=1 d=0.995012 t=15
+mei you 	沒有	c=1 d=0.985112 t=15
+shen me 	什麼	c=1 d=0.99005 t=15
+shu ru fa 	輸入法	c=1 d=0.965605 t=15
+yong hu 	用戶	c=1 d=0.955997 t=15
+zhu yi fan 	朱一凡	c=2 d=1.97531 t=15
+zhuan 	轉	c=1 d=0.970446 t=15
